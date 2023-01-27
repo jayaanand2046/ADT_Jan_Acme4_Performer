@@ -3,8 +3,8 @@
   "description": "Robotic Enterprise Framework performer acme4",
   "main": "Main.xaml",
   "dependencies": {
-    "Acme_Library": "[1.0.4]",
-    "ChromeRpaChallengeapp.Descriptors": "[1.0.3]",
+    "Acme_Library": "[1.0.5]",
+    "ChromeRpaChallengeapp.Descriptors": "[1.0.4]",
     "RpaChallengeappObjectRepo": "[1.0.2]",
     "UiPath.Excel.Activities": "[2.16.0]",
     "UiPath.Mail.Activities": "[1.18.1]",
